@@ -55,3 +55,37 @@ geographical locations.
 
 and a user interface for interaction.
 
+# Task 6: Track changes in job market dynamics over months 
+
+● Objective: To monitor and track the changes in job market dynamics. 
+
+● Deliverables: A dashboard that updates monthly with new trends in the job market. 
+
+# Task 7: Investigate trends in the remote work landscape 
+
+● Objective: To analyze trends and shifts towards remote work. 
+
+● Deliverables: A comprehensive report on remote work trends with data-backed forecasts. 
+
+# Task 8: Predict future job market trends 
+
+● Objective: To use the analyzed data to predict future trends in the job market. 
+
+● Deliverables: A predictive analytics report with potential future scenarios. 
+
+# Technology and Tools 
+
+● Data Sources: The data can be accessed here. 
+
+● Analytics Tools: Python, SQL, Pandas, Scikit-Learn, and TensorFlow for machine 
+
+learning models. 
+
+● Visualization Tools: Matplotlib, Seaborn, Plotly for interactive graphs. 
+
+● Web Development: Flask or Django for API development. 
+
+● Containerization: Docker for deploying and managing application containers.
+
+
+
